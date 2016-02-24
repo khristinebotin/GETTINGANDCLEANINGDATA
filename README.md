@@ -1,4 +1,3 @@
-# GETTINGANDCLEANINGDATA
 # Course Project - Getting and Cleaning Data
 
 ## Author
