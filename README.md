@@ -2,7 +2,7 @@
 
 ## Author
 
-Wayne E. Seguin <wayneeseguin@gmail.com>
+Khristine A. Botin <botinkhristine@gmail.com>
 
 ## Instructions
 
