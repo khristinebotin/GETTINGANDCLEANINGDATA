@@ -1,4 +1,4 @@
-# Author: Wayne E. Seguin
+# Author: Khristine A. Botin
 #
 # Course Project - Getting and Cleaning Data
 #
